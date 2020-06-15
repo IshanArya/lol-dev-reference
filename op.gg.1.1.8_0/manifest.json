@@ -1,0 +1,27 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "jquery.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon36.png",
+      "default_popup": "options.html",
+      "default_title": "OP.GG Extension"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "externally_connectable": {
+      "matches": [ "*://127.0.0.1/*", "*://*.op.gg/*" ]
+   },
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAil0Z5xf+C2i6+pbJ+8vezgUXMIEHE4HMsCQibB/e6BY0y/CXbjzPZTx6c0Y3sCKrYvCPmiG+wXc/YHcnBoo/s/dqAp7YFAhcEmz7lGuij/s84/Fo1+po66/9Pti1bKUH6srThEbheSrudI0wVblWC1zW4NJa4cWyXx3ZnRX4poJNiSCQ34ddIFTebfeSS/XQBv/yrcrnZzTvDmaZ4x0IdyyXf/98OYLK70dEZmLBqJjUeJpZvSwoqFBxoxn4ZxNIuNAig5fPpGyTy5mWTMAl44nKywYQWEtGoQx2jmsqwkKQRyTtqvGG4UbeNa0p194oO9KpYq5IAT676CT3wOWEDwIDAQAB",
+   "manifest_version": 2,
+   "name": "OP.GG Extension",
+   "permissions": [ "activeTab", "https://127.0.0.1/*", "http://127.0.0.1/*", "*://*.op.gg/*", "file:///*/GameLogs/*", "webRequest", "storage", "background", "https://tft.lol/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.8"
+}

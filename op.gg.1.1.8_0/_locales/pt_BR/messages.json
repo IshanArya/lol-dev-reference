@@ -1,0 +1,110 @@
+{
+   "appDescription": {
+      "message": "Você receberá automaticamente a busca múltipla, a análise do campeão e o ajuste das Runas para que você possa jogar mais confortável."
+   },
+   "appName": {
+      "message": "OP.GG Extensão"
+   },
+   "autoDetection": {
+      "message": "Detecção automática"
+   },
+   "certError": {
+      "message": "Please change \"disabled\" to \"enabled\" where it is highlighted with yellow."
+   },
+   "checkSettings": {
+      "message": "Verifique as configurações clicando no ícone da extensão no seu navegador Chrome!"
+   },
+   "descAllow": {
+      "message": "If you are done with localhost allow, please open League of Legends to finish. If you have path problem, click top right 'path setting' to set the path."
+   },
+   "descServer": {
+      "message": "Disponível em todas as regiões, exceto KR e Garena."
+   },
+   "ext_on": {
+      "message": "on"
+   },
+   "fileURLError": {
+      "message": "Please allow access to file URL in the following screen."
+   },
+   "high": {
+      "message": "High"
+   },
+   "hotfixDesc": {
+      "message": "*** Due to recent Chrome update (72.0.3626.109), temporarily have to disable the flag below until chrome bug get fixed."
+   },
+   "ifiLabel": {
+      "message": "Time spent on LoL"
+   },
+   "item_boots": {
+      "message": "Botas"
+   },
+   "item_recommend": {
+      "message": "Recommended Builds"
+   },
+   "item_start": {
+      "message": "Itens Iniciais"
+   },
+   "labelAllowFileUrl": {
+      "message": "URLs do arquivo permitido"
+   },
+   "labelAllowLocalhost": {
+      "message": "Localhost permitido"
+   },
+   "labelAutoRune": {
+      "message": "Runas automáticas"
+   },
+   "labelChampion": {
+      "message": "Campeões"
+   },
+   "labelExtensionOnOff": {
+      "message": "Extensão on/off"
+   },
+   "labelItemRecommend": {
+      "message": "Item Builds"
+   },
+   "labelMultisearch": {
+      "message": "Pesquisa Múltipla"
+   },
+   "labelNetworkService": {
+      "message": "NetworkService Disabled"
+   },
+   "labelPath": {
+      "message": "Caminho de instalação"
+   },
+   "labelRunLeague": {
+      "message": "Correr \"League of Legends\""
+   },
+   "low": {
+      "message": "Low"
+   },
+   "medium": {
+      "message": "Medium"
+   },
+   "myPageLabel": {
+      "message": "My Summoner Page"
+   },
+   "off": {
+      "message": "off"
+   },
+   "pathDescription": {
+      "message": "Por favor localize o caminho do diretório da League of Legends onde sua pasta RADS está localizada."
+   },
+   "pathError": {
+      "message": "Não foi possível encontrar \"League of Legends\". Rota atual: "
+   },
+   "pathExample": {
+      "message": "(exemplo: D:\\Game\\Riot Games\\League of Legends KR)"
+   },
+   "pathSet": {
+      "message": "Caminho de instalação"
+   },
+   "performance": {
+      "message": "Performance - Faster refresh rate when High"
+   },
+   "pleaseCheck": {
+      "message": "Por favor verifique"
+   },
+   "save": {
+      "message": "Salvar"
+   }
+}
